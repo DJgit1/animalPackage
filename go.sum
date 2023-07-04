@@ -1,4 +1,6 @@
 github.com/DJgit1/dog v0.0.0-20230704105453-3eee7cd9489a h1:kBVE11eQXDBrDmYVTqeHrwTIpHOxEgb5NuwCH0dpJPM=
 github.com/DJgit1/dog v0.0.0-20230704105453-3eee7cd9489a/go.mod h1:dsOBzz2roAUM7WXhIMbTcQqdxidtlOZlik+pFUqLy/c=
-github.com/DJgit1/puppy v0.0.0-20230704112254-7e1c04df4a44 h1:MX5gx2xdO0ir6XC+TYsVVGfm/heQSwqDr4nsoV23uEg=
-github.com/DJgit1/puppy v0.0.0-20230704112254-7e1c04df4a44/go.mod h1:RPJmWfMsL1eoLYsRYByW3MjFUpdw+ipgrMWpvtWPTi4=
+github.com/DJgit1/puppy v0.0.0-20230704141046-48789a8ce77f h1:3CSGQoVBmF8QEh+kt/HVlHAIkRrnqmqi33MJublCXFY=
+github.com/DJgit1/puppy v0.0.0-20230704141046-48789a8ce77f/go.mod h1:RPJmWfMsL1eoLYsRYByW3MjFUpdw+ipgrMWpvtWPTi4=
+github.com/DJgit1/puppy v1.2.0 h1:SepR2o+9exU7+aXQ//HLJK1IiAzn+iZkFoCZx/INZAg=
+github.com/DJgit1/puppy v1.2.0/go.mod h1:RPJmWfMsL1eoLYsRYByW3MjFUpdw+ipgrMWpvtWPTi4=
